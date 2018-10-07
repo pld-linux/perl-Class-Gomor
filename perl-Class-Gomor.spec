@@ -8,12 +8,12 @@
 Summary:	Class::Gomor - another class and object builder
 Summary(pl.UTF-8):	Class:Gomor - kolejny builder klas i obiektów
 Name:		perl-Class-Gomor
-Version:	1.02
+Version:	1.03
 Release:	1
 License:	artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Class/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	287c3b3be72fcb4a4089fe232b8b1002
+# Source0-md5:	701c0d407574cd5bb1c52537a63ac276
 URL:		http://search.cpan.org/dist/Class-Gomor/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
